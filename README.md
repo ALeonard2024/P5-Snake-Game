@@ -11,7 +11,7 @@ This is a basic p5 snake game with sound effects and arduino uno components to p
 # Taking Scores
 The score will be displayed at the top left of the game. After each round when you die, record that score. At the end of the game when you have used up all your lives, add up all hreee scores from each life and that is your final score. 
 
-#Possible Future Development
+# Possible Future Development
  1) Implementing a version where the snake gets faster each time you collect a point.
  2) create a multiplayer mode where you compete for points and after a time limit the snake with the most amounf of points win.
  3) Creating multiple game screens (Ex. Start Screen)
